@@ -1,2 +1,1 @@
-#!/bin/bash
-low programming
+This Repositery contains my low level progaming projects.
