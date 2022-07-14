@@ -1,1 +1,1 @@
-"In this project, i learned preprocessor in C."  
+"In this project, i learned prepocessor in C" 
