@@ -1,1 +1,1 @@
-"This Repositery contains my low level progaming projects." 
+"In this project, i learned hash table in C." 
